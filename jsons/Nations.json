@@ -22,7 +22,7 @@
 		"neutralHello": "Гарного дня, блять.",
 		"hateHello": "Піздєц?",
 		"tradeRequest": "Хочеш обміняти гавно на золото?",
-		"outerColor": [ 0,62,106],
+		"outerColor": [ 192,62,106],
 		"innerColor": [255,255,255],
 		"uniqueName": "Manifest Destiny",
 		"uniques": ["+1 Sight for all land military units","-[50]% Gold cost of acquiring tiles [in all cities]"],
