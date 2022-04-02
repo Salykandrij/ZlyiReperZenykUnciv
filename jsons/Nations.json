@@ -30,7 +30,7 @@
 	},
 		{
 		//nations
-		"name": "Nepostiron Nerepublik",
+		"name": "Nepostiron",
 		"leaderName": "Не.постірон",
 		"adjective": ["Громадяни НН"],
 		"startBias": ["Avoid [Tundra]"],
